@@ -15,7 +15,7 @@
 
 > ေအာက္ကေပးထားတဲ့ Link ကို ႏွိပ္ျပီး စမ္းသပ္ ၾကည့္ရႈႏိုင္ပါတယ္။
 
-[![Live Demo](https://img.shields.io/npm/dm/marko.svg)](https://my-demo.cf)
+[[Live Demo]](https://my-demo.cf)
 
 
 ## Front-end
